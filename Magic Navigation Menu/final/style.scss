@@ -50,6 +50,11 @@ h6 {
 :root {
   --bg-color: #222327;
 }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;900&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
 
 body {
   display: flex;

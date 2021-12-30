@@ -1,4 +1,5 @@
 /* 1. Use a more-intuitive box-sizing model. */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;900&display=swap");
 *,
 *::before,
 *::after {
@@ -63,6 +64,10 @@ h6 {
 
 :root {
   --bg-color: #222327;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
 }
 
 body {
