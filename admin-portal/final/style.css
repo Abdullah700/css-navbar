@@ -131,7 +131,6 @@ body {
 }
 .navigation li:not(.list-brand):hover, .navigation li:not(.list-brand).active {
   background-color: var(--white);
-  pointer-events: none;
 }
 .navigation li:not(.list-brand):hover a, .navigation li:not(.list-brand).active a {
   color: var(--blue);

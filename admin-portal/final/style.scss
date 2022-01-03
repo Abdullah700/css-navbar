@@ -124,7 +124,6 @@ body {
     &:not(.list-brand):hover,
     &:not(.list-brand).active {
       background-color: var(--white);
-      pointer-events: none;
       a {
         color: var(--blue);
         &::before {
